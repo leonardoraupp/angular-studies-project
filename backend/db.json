@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Computador Dell",
+      "price": 5000.9
+    },
+    {
+      "id": 3,
+      "name": "Celular Xiaomi",
+      "price": 3500
+    }
+  ]
+}
